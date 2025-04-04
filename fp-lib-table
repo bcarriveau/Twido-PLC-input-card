@@ -3,4 +3,5 @@
   (lib (name "3109")(type "KiCad")(uri "${KIPRJMOD}/2601-3109/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "17pin")(type "KiCad")(uri "${KIPRJMOD}/HTSW-217-15-T-S")(options "")(descr ""))
   (lib (name "3106")(type "KiCad")(uri "${KIPRJMOD}/2601-3106/footprints.pretty")(options "")(descr ""))
+  (lib (name "3108")(type "KiCad")(uri "${KIPRJMOD}/2601_3108/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

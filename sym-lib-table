@@ -3,4 +3,5 @@
   (lib (name "3109")(type "KiCad")(uri "${KIPRJMOD}/2601-3109/KiCADv6/2025-04-01_22-59-36.kicad_sym")(options "")(descr ""))
   (lib (name "HTSW-217-15-T-S")(type "KiCad")(uri "${KIPRJMOD}/HTSW-217-15-T-S/HTSW-217-15-T-S.kicad_sym")(options "")(descr ""))
   (lib (name "3106")(type "KiCad")(uri "${KIPRJMOD}/2601-3106/2025-04-01_11-34-25.kicad_sym")(options "")(descr ""))
+  (lib (name "3108")(type "KiCad")(uri "${KIPRJMOD}/2601_3108/KiCADv6/2025-04-02_01-16-30.kicad_sym")(options "")(descr ""))
 )
